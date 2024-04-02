@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DLzX9cLhllgVmItUq+EZ3ag7U2YB6UhWca4SsFni+jMX5xP6tHs+/bc2tKgKgqJwk8YtGNbaenx3oPGHKKqxTA==",
+  "dgSpecHash": "uasKDhU67z7AVdds6caKDfmOzZDgSzBkEOSYoFR+7Cs60YdRA6L+QLAf5cxzbEP297+1YWK0FwUScAJdU4cJFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Balint\\Desktop\\RendszerF\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+  "projectFilePath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

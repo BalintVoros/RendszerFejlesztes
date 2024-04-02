@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oUOMSPB91ELL9XcllhIAC9Qz6GHg8KDiTjNgP3mdO+fRXc2fFC3qT99pivu4qi6Ylf57bwz6P9L9eVm3/1Ep7g==",
+  "dgSpecHash": "cehDiY14sO+XdMWlXaKr/QmcdgvOnf/y5hDOgZx4gx90XeRkaavVM+IwOi/SM43GMWgbHNBdP6sRb5Nn0Ddr5w==",
   "success": true,
-  "projectFilePath": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
+  "projectFilePath": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

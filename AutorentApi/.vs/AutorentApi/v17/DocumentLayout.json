@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Balint\\Desktop\\RendszerF\\Rendszerfejlesztes\\AutorentApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wdwLogin.xaml",
+              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml",
+              "RelativeDocumentMoniker": "CarRent\\wdwLogin.xaml",
+              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml",
+              "RelativeToolTip": "CarRent\\wdwLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T16:46:49.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

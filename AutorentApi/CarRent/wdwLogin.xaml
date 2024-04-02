@@ -1,0 +1,16 @@
+﻿<Window x:Class="CarRent.wdwLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarRent"
+        mc:Ignorable="d"
+        Title="wdwLogin" Height="450" Width="265">
+    <Grid>
+        <TextBox x:Name="txtFelhasznalonev" HorizontalAlignment="Center" Margin="0,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" Height="30"/>
+        <TextBox x:Name="txtJelszo" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" Height="30" Margin="0,230,0,0"/>
+        <Label Content="Felhasználónév" HorizontalAlignment="Left" Margin="28,133,0,0" VerticalAlignment="Top"/>
+        <Label Content="Jelszó" HorizontalAlignment="Left" Margin="28,0,0,0" VerticalAlignment="Center"/>
+        <Button x:Name="btnBelepes" Content="Belépés" HorizontalAlignment="Center" Margin="0,287,0,0" VerticalAlignment="Top" Width="119" Height="32"/>
+    </Grid>
+</Window>

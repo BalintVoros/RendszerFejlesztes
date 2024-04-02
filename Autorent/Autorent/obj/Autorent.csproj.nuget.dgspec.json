@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj": {}
+    "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj": {}
   },
   "projects": {
-    "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj": {
+    "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
+        "projectUniqueName": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
         "projectName": "Autorent",
-        "projectPath": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
+        "projectPath": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
         "packagesPath": "C:\\Users\\Zimi\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\obj\\",
+        "outputPath": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

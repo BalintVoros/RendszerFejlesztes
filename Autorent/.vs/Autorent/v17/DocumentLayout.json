@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\Rendszerfejlesztes\\Autorent\\",
+  "WorkspaceRootPath": "D:\\Rendszerfejlesztes\\Autorent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\c#\\rendszerfejlesztes\\autorent\\autorent\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\rendszerfejlesztes\\autorent\\autorent\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|solutionrelative:autorent\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\c#\\rendszerfejlesztes\\autorent\\autorent\\autorent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\rendszerfejlesztes\\autorent\\autorent\\autorent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|solutionrelative:autorent\\autorent.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\c#\\rendszerfejlesztes\\autorent\\autorent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\rendszerfejlesztes\\autorent\\autorent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|solutionrelative:autorent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\c#\\rendszerfejlesztes\\autorent\\autorent\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\rendszerfejlesztes\\autorent\\autorent\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|solutionrelative:autorent\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\c#\\rendszerfejlesztes\\autorent\\autorent\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|d:\\rendszerfejlesztes\\autorent\\autorent\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D0E3E89-D8B6-4A32-A560-E7162F2A2302}|Autorent\\Autorent.csproj|solutionrelative:autorent\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Autorent\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Properties\\launchSettings.json",
               "RelativeToolTip": "Autorent\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Autorent\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Autorent\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Autorent\\WeatherForecast.cs",
-              "ToolTip": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\WeatherForecast.cs",
+              "ToolTip": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\WeatherForecast.cs",
               "RelativeToolTip": "Autorent\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Autorent.http",
-              "DocumentMoniker": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.http",
+              "DocumentMoniker": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.http",
               "RelativeDocumentMoniker": "Autorent\\Autorent.http",
-              "ToolTip": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.http",
+              "ToolTip": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.http",
               "RelativeToolTip": "Autorent\\Autorent.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Program.cs",
+              "DocumentMoniker": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Program.cs",
               "RelativeDocumentMoniker": "Autorent\\Program.cs",
-              "ToolTip": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Program.cs",
+              "ToolTip": "D:\\Rendszerfejlesztes\\Autorent\\Autorent\\Program.cs",
               "RelativeToolTip": "Autorent\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
