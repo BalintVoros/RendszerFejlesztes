@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUOMSPB91ELL9XcllhIAC9Qz6GHg8KDiTjNgP3mdO+fRXc2fFC3qT99pivu4qi6Ylf57bwz6P9L9eVm3/1Ep7g==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\Rendszerfejlesztes\\Autorent\\Autorent\\Autorent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
