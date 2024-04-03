@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Balint\\.nuget\\packages\\": {},
+    "C:\\Users\\Zimi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Balint\\Desktop\\RendszerekVegleg\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+      "projectUniqueName": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
       "projectName": "CarRent",
-      "projectPath": "C:\\Users\\Balint\\Desktop\\RendszerekVegleg\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
-      "packagesPath": "C:\\Users\\Balint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Balint\\Desktop\\RendszerekVegleg\\RendszerFejlesztes\\AutorentApi\\CarRent\\obj\\",
+      "projectPath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+      "packagesPath": "C:\\Users\\Zimi\\.nuget\\packages\\",
+      "outputPath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Balint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

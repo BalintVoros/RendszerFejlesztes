@@ -24,6 +24,17 @@ namespace CarRent
             InitializeComponent();
         }
 
-        
+        private void btnBelepes_Click(object sender, RoutedEventArgs e)
+        {
+            wdwRentals rentals = new wdwRentals();  
+            this.Hide();
+            rentals.Show();
+
+        }
+
+        private void btnKilepes_Click(object sender, RoutedEventArgs e)
+        {
+            Environment.Exit(1);
+        }
     }
 }

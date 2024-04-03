@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qkwdJqMn3QelBS81LAbrLpnfcNOYHze3kqta0IL0kM9zWaG1qjlXF2KlHw/7xM+wDBN9/8oiYin5CQGaf9opZg==",
+  "dgSpecHash": "BL90SiQwFCfJekT/HxiV++LkfA5Jc/JyzC5SZD/q/6wCl1OjiBUAr4pUuGiZmlhwtw+XTNqSmVdfjUFL2qvSZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Balint\\Desktop\\RendszerekVegleg\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+  "projectFilePath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+    "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }
