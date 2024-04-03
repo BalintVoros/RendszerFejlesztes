@@ -1,0 +1,5 @@
+C:\Users\Ákos Nagy\Desktop\rendszerfejlesztés\Rendszerfejlesztes\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows\CarRent.csproj.AssemblyReference.cache
+C:\Users\Ákos Nagy\Desktop\rendszerfejlesztés\Rendszerfejlesztes\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows\wdwLogin.g.cs
+C:\Users\Ákos Nagy\Desktop\rendszerfejlesztés\Rendszerfejlesztes\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ákos Nagy\Desktop\rendszerfejlesztés\Rendszerfejlesztes\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows\CarRent_MarkupCompile.cache
+C:\Users\Ákos Nagy\Desktop\rendszerfejlesztés\Rendszerfejlesztes\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows\CarRent_MarkupCompile.lref

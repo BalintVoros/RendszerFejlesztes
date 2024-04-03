@@ -1,0 +1,57 @@
+    internal class Conn
+    {
+        public const string URL = "http://localhost:5230";
+
+        public Conn() { }
+
+        public int? Login(string username, string password)
+        {
+            using (var client = new WebClient())
+            {
+
+                var dataString = JsonConvert.SerializeObject(new { username = username, password = password });
+                client.Headers.Add(HttpRequestHeader.ContentType, "application/json");
+                string response = client.UploadString(new Uri($"{URL}/login"), "POST", dataString);
+                return ToNullableInt(response);
+            }
+        }
+
+        public User GetUser(int userId)
+        {
+            using (var client = new WebClient())
+            {
+                var response = client.DownloadString($"{URL}/getUser?id={userId}");
+                User user = JsonConvert.DeserializeObject<User>(response);
+                return user;
+            }
+        }
+
+        public List<Auto> GetCars()
+        {
+            using (var client = new WebClient())
+            {
+                var response = client.DownloadString($"{URL}/getCars");
+                List<Auto> AutoList = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Auto>>(response);
+                return AutoList;
+            }
+        }
+
+        public List<Category> GetCategories()
+        {
+            using (var client = new WebClient())
+            {
+                var response = client.DownloadString($"{URL}/getCategories");
+                List<Category> categoryList = JsonConvert.DeserializeObject<List<Category>>(response);
+                return categoryList;
+            }
+        }
+
+        public static int? ToNullableInt(this string text)
+        {
+            if (int.TryParse(text, out var number))
+                return (int?)number;
+            else
+                return null;
+        }
+
+    }
