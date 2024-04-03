@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Zimi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Zimi\\.nuget\\packages",
+      "C:\\Users\\Balint\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Balint\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

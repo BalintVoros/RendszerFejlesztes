@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "z48iNFaUTZf3D8YsI8HpUqvIElzmGGEINAu/LLeJWSXY2ylWFH87LICzk5XgVDM0/FZMpTJHor4z9BU3apU60Q==",
+  "dgSpecHash": "qkwdJqMn3QelBS81LAbrLpnfcNOYHze3kqta0IL0kM9zWaG1qjlXF2KlHw/7xM+wDBN9/8oiYin5CQGaf9opZg==",
   "success": true,
-  "projectFilePath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Balint\\Desktop\\RendszerekVegleg\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Balint\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
