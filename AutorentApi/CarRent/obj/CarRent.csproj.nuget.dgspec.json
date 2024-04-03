@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj": {}
+    "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj": {}
   },
   "projects": {
-    "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj": {
+    "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+        "projectUniqueName": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
         "projectName": "CarRent",
-        "projectPath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+        "projectPath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
         "packagesPath": "C:\\Users\\Zimi\\.nuget\\packages\\",
         "outputPath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uasKDhU67z7AVdds6caKDfmOzZDgSzBkEOSYoFR+7Cs60YdRA6L+QLAf5cxzbEP297+1YWK0FwUScAJdU4cJFQ==",
+  "dgSpecHash": "k5jXYt8aQcwm/BeXD0RvBtyTqz2SQK7emUEBGrgoY1MukFv70Nd5JOLyy+iaggVl0awm5opyrnvJ3YlaCygPWg==",
   "success": true,
-  "projectFilePath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+  "projectFilePath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

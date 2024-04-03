@@ -3,11 +3,9 @@ D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\bin\Debug\net8.0-windows\CarRent.de
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\bin\Debug\net8.0-windows\CarRent.runtimeconfig.json
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\bin\Debug\net8.0-windows\CarRent.dll
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\bin\Debug\net8.0-windows\CarRent.pdb
-D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\App.g.cs
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent_MarkupCompile.cache
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent_MarkupCompile.lref
-D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\MainWindow.baml
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent.g.resources
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent.GeneratedMSBuildEditorConfig.editorconfig
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent.AssemblyInfoInputs.cache
@@ -40,3 +38,5 @@ C:\Users\Balint\Desktop\RENDSZERFEJLESZTÉS\Rendszerfejlesztes\AutorentApi\CarRe
 C:\Users\Balint\Desktop\RENDSZERFEJLESZTÉS\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent.pdb
 C:\Users\Balint\Desktop\RENDSZERFEJLESZTÉS\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\CarRent.genruntimeconfig.cache
 C:\Users\Balint\Desktop\RENDSZERFEJLESZTÉS\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\ref\CarRent.dll
+D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\wdwLogin.g.cs
+D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net8.0-windows\wdwLogin.baml
