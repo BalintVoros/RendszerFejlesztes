@@ -7,48 +7,28 @@
       "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwrentals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwlogin.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwlogin.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwrentals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwrentals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\autorentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|solutionrelative:autorentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\autorentapi\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|solutionrelative:autorentapi\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwrentals.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwrentals.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\autorentapi\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|solutionrelative:autorentapi\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\autorentapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|solutionrelative:autorentapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\wdwlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\wdwlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\autorentapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|solutionrelative:autorentapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\carrent\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A3DED1-2DA2-4E09-8078-2C3E85C2EFC1}|CarRent\\CarRent.csproj|solutionrelative:carrent\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|d:\\c#\\rendszerfejlesztes\\autorentapi\\autorentapi\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E381199-41EE-4D0C-A7AA-5803F36CD907}|AutorentApi\\AutorentApi.csproj|solutionrelative:autorentapi\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,32 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\Models\\Auto.cs",
-              "RelativeDocumentMoniker": "CarRent\\Models\\Auto.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\Models\\Auto.cs",
-              "RelativeToolTip": "CarRent\\Models\\Auto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "AutoController.cs",
+              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Controllers\\AutoController.cs",
+              "RelativeDocumentMoniker": "AutorentApi\\Controllers\\AutoController.cs",
+              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Controllers\\AutoController.cs",
+              "RelativeToolTip": "AutorentApi\\Controllers\\AutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:57:43.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "wdwLogin.xaml.cs",
-              "DocumentMoniker": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml.cs",
-              "RelativeDocumentMoniker": "CarRent\\wdwLogin.xaml.cs",
-              "ToolTip": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml.cs",
-              "RelativeToolTip": "CarRent\\wdwLogin.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:52:11.847Z",
+              "WhenOpened": "2024-04-10T11:43:19.746Z",
               "EditorCaption": ""
             },
             {
@@ -94,35 +61,35 @@
               "RelativeDocumentMoniker": "CarRent\\wdwRentals.xaml.cs",
               "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwRentals.xaml.cs",
               "RelativeToolTip": "CarRent\\wdwRentals.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:52:05.368Z",
+              "WhenOpened": "2024-04-10T11:39:48.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Program.cs",
-              "RelativeDocumentMoniker": "AutorentApi\\Program.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Program.cs",
-              "RelativeToolTip": "AutorentApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "AutorentApi\\Models\\Auto.cs",
+              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Models\\Auto.cs",
+              "RelativeToolTip": "AutorentApi\\Models\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T14:51:58.649Z",
+              "WhenOpened": "2024-04-10T11:38:38.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "CarRent\\AssemblyInfo.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\AssemblyInfo.cs",
-              "RelativeToolTip": "CarRent\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "CarRent\\Models\\Auto.cs",
+              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\Models\\Auto.cs",
+              "RelativeToolTip": "CarRent\\Models\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T13:34:15.761Z",
+              "WhenOpened": "2024-04-10T11:38:34.922Z",
               "EditorCaption": ""
             },
             {
@@ -134,80 +101,32 @@
               "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwRentals.xaml",
               "RelativeToolTip": "CarRent\\wdwRentals.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-03T13:34:10.464Z",
+              "WhenOpened": "2024-04-10T11:38:14.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conn.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\Conn.cs",
-              "RelativeDocumentMoniker": "CarRent\\Conn.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\Conn.cs",
-              "RelativeToolTip": "CarRent\\Conn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "wdwLogin.xaml.cs",
+              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml.cs",
+              "RelativeDocumentMoniker": "CarRent\\wdwLogin.xaml.cs",
+              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml.cs",
+              "RelativeToolTip": "CarRent\\wdwLogin.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:41:26.881Z",
+              "WhenOpened": "2024-04-10T11:37:39.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "AutorentApi\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "AutorentApi\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:37:30.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Models\\Auto.cs",
-              "RelativeDocumentMoniker": "AutorentApi\\Models\\Auto.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Models\\Auto.cs",
-              "RelativeToolTip": "AutorentApi\\Models\\Auto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:37:19.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "AutorentApi\\Models\\Category.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Models\\Category.cs",
-              "RelativeToolTip": "AutorentApi\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:37:16.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AutoController.cs",
-              "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Controllers\\AutoController.cs",
-              "RelativeDocumentMoniker": "AutorentApi\\Controllers\\AutoController.cs",
-              "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\Controllers\\AutoController.cs",
-              "RelativeToolTip": "AutorentApi\\Controllers\\AutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T11:37:10.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "wdwLogin.xaml",
               "DocumentMoniker": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml",
               "RelativeDocumentMoniker": "CarRent\\wdwLogin.xaml",
               "ToolTip": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\wdwLogin.xaml",
               "RelativeToolTip": "CarRent\\wdwLogin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-02T16:54:52.33Z",
+              "WhenOpened": "2024-04-10T11:37:33.569Z",
               "EditorCaption": ""
             }
           ]

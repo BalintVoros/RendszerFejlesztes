@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\
+D:\c#\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\
 CarRent
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\App.xaml
+D:\c#\RendszerFejlesztes\AutorentApi\CarRent\App.xaml
 2-1127334549
 
 111287477817
-194782458656
+195-1561447523
 wdwLogin.xaml;wdwRentals.xaml;
 
 False

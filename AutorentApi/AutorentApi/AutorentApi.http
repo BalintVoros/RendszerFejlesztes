@@ -1,6 +1,6 @@
 @AutorentApi_HostAddress = http://localhost:5230
 
-GET {{AutorentApi_HostAddress}}/weatherforecast/
+GET {{AutorentApi_HostAddress}}/autorent/
 Accept: application/json
 
 ###

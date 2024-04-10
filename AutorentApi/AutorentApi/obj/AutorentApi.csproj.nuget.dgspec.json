@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj": {}
+    "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj": {}
   },
   "projects": {
-    "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj": {
+    "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj",
+        "projectUniqueName": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj",
         "projectName": "AutorentApi",
-        "projectPath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj",
+        "projectPath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj",
         "packagesPath": "C:\\Users\\Zimi\\.nuget\\packages\\",
         "outputPath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\AutorentApi\\obj\\",
         "projectStyle": "PackageReference",

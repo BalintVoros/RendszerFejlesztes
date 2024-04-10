@@ -21,3 +21,6 @@ D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\refint\
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\CarRent.pdb
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\CarRent.genruntimeconfig.cache
 D:\c#\Rendszerfejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\ref\CarRent.dll
+D:\c#\RendszerFejlesztes\AutorentApi\CarRent\bin\Debug\net6.0-windows7.0\Newtonsoft.Json.dll
+D:\c#\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\CarRent.csproj.AssemblyReference.cache
+D:\c#\RendszerFejlesztes\AutorentApi\CarRent\obj\Debug\net6.0-windows7.0\CarRent.csproj.Up2Date

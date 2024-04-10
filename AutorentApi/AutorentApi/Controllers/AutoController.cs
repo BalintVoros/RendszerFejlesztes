@@ -22,6 +22,8 @@ namespace AutorentApi.Controllers
             return products;
         }
 
+
+
         // Itt adhatsz hozzá további API végpontokat, például a termék hozzáadásához, frissítéséhez vagy törléséhez.
     }
 }

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BL90SiQwFCfJekT/HxiV++LkfA5Jc/JyzC5SZD/q/6wCl1OjiBUAr4pUuGiZmlhwtw+XTNqSmVdfjUFL2qvSZg==",
+  "dgSpecHash": "O0Eec1/bNCPCW5z662SIa0aDqJF2H6syuKuPWAsLt+vsAAcmqCK61Qz0Q7Zd1ImxZ7TUTH7PI/Feo+TsnFPfoQ==",
   "success": true,
-  "projectFilePath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
+  "projectFilePath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\CarRent\\CarRent.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Zimi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zimi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
