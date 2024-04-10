@@ -1,0 +1,3 @@
+A projectet Visual Studioval érdmes megynyitni.
+AutorentApi mappát megnyitva ott található az AutorentApi.sln Visual Studio Solution fájl amely az egész solutiont megnyitja. 
+Ez magában foglalja a klienst is. Alapból  <Multiple Startup Projects> -re van állítva, így a futtatás elindítja az API-t és a klienst is egyszerre.

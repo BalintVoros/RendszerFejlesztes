@@ -11,7 +11,7 @@
         "projectName": "AutorentApi",
         "projectPath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\AutorentApi.csproj",
         "packagesPath": "C:\\Users\\Zimi\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\Rendszerfejlesztes\\AutorentApi\\AutorentApi\\obj\\",
+        "outputPath": "D:\\c#\\RendszerFejlesztes\\AutorentApi\\AutorentApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
