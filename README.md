@@ -19,7 +19,7 @@
 <p>Admin bejelentkezés</p>
 <h3>Admin@test.com|admin</h3>
 <p>Felhasználó bejelentkezés</p>
-<h3>balint@test.com|123 || Vagy regisztráljon új felhasználót</h3>
+<h3>balint@test.com|balint || Vagy regisztráljon új felhasználót</h3>
 
 # Elkészült / hátralévő funkciók
 ### Funkciók
