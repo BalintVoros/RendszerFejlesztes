@@ -13,7 +13,7 @@
     A Backendet Futtassa IntelliJ IDEA projektként vagy Visual Studio Code Projektként vagy pedig terminálon ( Tesztelve IntelliJ IDEA projekt futtatással volt)
   </p>
 <h3>FrontEnd</h3>
-<p>Nyissa meg a projekt mappáját Visual Studio Code-ban vagy Terminálban majd Adja ki  <h3>ng serve</h3> parancsot az Angular projekt Buildeléséhez</p>
+<p>Nyissa meg a projekt mappáját Visual Studio Code-ban vagy Terminálban majd Adja ki  <h3>ng serve(ha kell npm install előtte)</h3> parancsot az Angular projekt Buildeléséhez</p>
 <h3>Használat</h3>
 <p>Webhely: http://localhost:4200/login </p>
 <p>Admin bejelentkezés</p>
