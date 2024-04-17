@@ -2,7 +2,9 @@
 
 <h2>Szoftverek</h2>
   <h3>Adatbázis</h3>
-       <p> ---> MYSQL szerver használat: Telepítse a MYSQL szervert és a MYSQL WorkBenchet ----> Hozzon létre egy Localhost szervert a  default :3306-os porton az adatbázis jelszava legyen [admin123] ---> Hozzon létre az adatbázisban egy car_rental_db Schemat </p>
+       
+       <p> ---> MYSQL szerver használat: Telepítse a MYSQL szervert és a MYSQL WorkBenchet ----> Hozzon létre egy Localhost szervert a  default :3306-os porton az adatbázis jelszava legyen [admin123] </p>
+        <p> Hozzon létre az adatbázisban egy car_rental_db Schemat /VAGY/ Ha nem szeretnél új adatbázis készíteni akkor másold bele a car_rental_db mappát --> C:\ProgramData\MySQL\MySQL Server 8.3\Data könyvtárba ---> Itt vannak felvitt autók és foglalások is </p>
        <p>Az alkalmazás legenerálja az adatbázist futtatáskor.</p>
   <h3>
     Backend
