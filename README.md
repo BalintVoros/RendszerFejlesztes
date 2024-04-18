@@ -11,6 +11,7 @@
   </h3>
   <p>
     A Backendet Futtassa IntelliJ IDEA projektként vagy Visual Studio Code Projektként vagy pedig terminálon ( Tesztelve IntelliJ IDEA projekt futtatással volt)
+    Terminálban való futtatás esetén: Terminál nyitás backend mappában majd mvn package(ha nincs pl. brew install mvn(mac)) utána java -jar target/rent-a-car-spring-0.0.1-SNAPSHOT.jar parancs
   </p>
 <h3>FrontEnd</h3>
 <p>Nyissa meg a projekt mappáját Visual Studio Code-ban vagy Terminálban majd Adja ki  <h3>ng serve(ha kell npm install előtte)</h3> parancsot az Angular projekt Buildeléséhez</p>
@@ -36,3 +37,5 @@
 - [x] Szerver - kliens kommunikáció
 - [x] Adatbázis kapcsolat
 - [x] Authentikáció - Authorizáció
+ ### Tesztelve: Windows , MacOS
+
