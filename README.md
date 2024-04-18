@@ -2,9 +2,9 @@
 
 <h2>Szoftverek</h2>
   <h3>Adatbázis</h3>
-       <p> MYSQL szerver használat: Telepítse a MYSQL szervert és a MYSQL WorkBenchet ----> Hozzon létre egy Localhost szervert a  default :3306-os porton az adatbázis jelszava legyen [admin123] </p>
+       <p> MYSQL szerver használat: Telepítse a MYSQL szervert és a MYSQL WorkBenchet ----> Hozzon létre egy Localhost szervert a  default :3306-os porton az adatbázis jelszava legyen [admin123]/ Vagy a backend-ben az app propertiesben szerkessze a szerver tulajdonságait </p>
         <p> Hozzon létre az adatbázisban egy car_rental_db Schemat az alkalmazás legenerálja az adatbázist futtatáskor 
-          <h3>//VAGY//</h3> Ha az előre elkészíttet  adatbázist akarja használni  akkor a MQSQL Workbench alkalmazásban ha belépett a szerverre a Server menüponton belül a Data Importra kattintva importálja be az SQL mappában található SQL fájlt  ---> Itt vannak felvitt autók és foglalások is </p>
+          <h3>//VAGY//</h3> Ha az előre elkészített  adatbázist akarja használni  akkor a MQSQL Workbench alkalmazásban ha belépett a szerverre a Server menüponton belül a Data Importra kattintva importálja be az SQL mappában található SQL fájlt  ---> Itt vannak felvitt autók és foglalások is </p>
   
   <h3>
     Backend
