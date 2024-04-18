@@ -15,6 +15,9 @@
   </p>
 <h3>FrontEnd</h3>
 <p>Nyissa meg a projekt mappáját Visual Studio Code-ban vagy Terminálban majd Adja ki  <h3>ng serve(ha kell npm install előtte)</h3> parancsot az Angular projekt Buildeléséhez</p>
+<h2>Automatizált használat </h2>
+<p>Nyissa meg terminálban a alkamazás könyvtárát futtassa a chmod +x Start.sh parancsot majd ./Start.sh utasítást [Backend Build után néha szükséges Enter-t nyomni](Müködik Linux/Macen)</p>
+<p>Youtube videó az alkalmazás használatáról--> https://youtu.be/ks1cBRmPO4A </p>
 <h3>Használat</h3>
 <p>Webhely: http://localhost:4200/login </p>
 <p>Admin bejelentkezés</p>
