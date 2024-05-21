@@ -40,5 +40,6 @@
 - [x] Szerver - kliens kommunikáció
 - [x] Adatbázis kapcsolat
 - [x] Authentikáció - Authorizáció
+- [X] Websocket
  ### Tesztelve: Windows , MacOS
 
